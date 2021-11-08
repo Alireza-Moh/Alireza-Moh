@@ -4,4 +4,4 @@ My name is Alireza. I am 19 years old IT Student
 
 # Skills
 * :desktop_computer: Java, Python, C++, Javascript
-* :floppy_disk: MySql, HTML, CSS
+* :floppy_disk: PHP, MySql, HTML, CSS
